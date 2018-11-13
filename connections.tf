@@ -1,6 +1,6 @@
 
 provider "google" {
     credentials = "${file("account.json")}"
-    project     = "ordinal-link-214805"
+    project     = "skilled-module-222310"
     region      = "us-east1"
 }
